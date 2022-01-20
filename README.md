@@ -2,8 +2,8 @@
 aymen1102/springboot-docker
 
 Steps : 
-1 - Create Spring boot application
-2 - Build a simple REST API
-3 - Create Dockerfile
-4 - Build Docker Image
-5 - Run Docker Image in a container
+1 - Create Spring boot application<br />
+2 - Build a simple REST API<br />
+3 - Create Dockerfile<br />
+4 - Build Docker Image<br />
+5 - Run Docker Image in a container<br />

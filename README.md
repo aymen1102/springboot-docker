@@ -9,4 +9,4 @@ Steps : <br />
 5 - Run Docker Image in a container<br />
 
 add image command : docker build -t springboot-docker:latest .<br />
-add a container : docker run -p 8081:8080 springboot-docker
+add a container command : docker run -p 8081:8080 springboot-docker

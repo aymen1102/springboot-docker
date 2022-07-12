@@ -14,9 +14,8 @@
 	<name>springboot-docker</name>
 	<description>Demo project for Spring Boot and Docker</description>
 	<properties>
-		<java.version>16</java.version>
-		<maven.compiler.source>11</maven.compiler.source>
-		<maven.compiler.target>11</maven.compiler.target>
+		<maven.compiler.source>16</maven.compiler.source>
+		<maven.compiler.target>16</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
